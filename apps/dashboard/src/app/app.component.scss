@@ -1,0 +1,13 @@
+.header {
+    &--wraper{
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        width: 93%;
+    }
+    &--logo{
+        img{
+            height: 80px;
+        }
+    }
+}
